@@ -1,0 +1,148 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Familias2.0
+</name>
+</assembly>
+<members>
+<member name="P:Familias2._0.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.backFam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.BECA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.CH_Heart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.CH_Heart_CMYK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.db">
+	<summary>
+  Looks up a localized string similar to Familias.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.EjAsistencia">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.EjAsistencia2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.FamiliasdeEsperanza_Logo_Pequeño">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.FamiliasdeEsperanza_Logo_RGB">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.FU">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.HEAL">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.HeartSmall">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.lFU">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.Listado">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.ListaIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.login">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.logoFam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.LogoUtiles">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.LogoUtiles1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.LogoUtiles2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.Menu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.noFam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.Nuevo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.Print">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.retorno">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.Save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.searchFam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.seguir">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.svr">
+	<summary>
+  Looks up a localized string similar to svrfamilias.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.utilesNoFam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Familias2._0.My.Resources.Resources.versionFamilias2">
+	<summary>
+  Looks up a localized string similar to 2.0 (20190705).
+</summary>
+</member><member name="T:Familias2._0.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

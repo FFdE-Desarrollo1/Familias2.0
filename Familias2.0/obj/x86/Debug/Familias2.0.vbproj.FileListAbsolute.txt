@@ -1,0 +1,803 @@
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Familias.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Form1.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Login.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.mnCH.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Resources.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\bin\Debug\Familias2.0.pdb
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\bin\Debug\Familias2.0.xml
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.xml
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.pdb
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaInfoEduc.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaOtraInfo.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilFamilia.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilMiembro.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EnvioCartasApadrinados.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CartaPadrino.resources
+C:\Users\adminbackup\Desktop\Nueva carpeta\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenApad.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe.manifest
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.application
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.pdb
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.xml
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EnvioCartasApadrinados.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CartaPadrino.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenApad.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesAE.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformeCitasAE.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PETL.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasMedicasAE.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAE.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaApadrinadosAJ.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaExcel.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciasAJduplicadas.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Recolector.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroAsistencia.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualAsistencias.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralAsistencia.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAJ.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesDuplicadasEduc.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEduc.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizacionFestivalUtiles.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizaEstadoPorGrupo.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoEduc.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AñoEscolar.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BorrarReembolsoConPago.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EntregaLibros.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FeriaUtilesFamiliar.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialEducativo.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoAñoEscolar.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesIndividuales.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEducativas.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ValeLibros.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla2.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosEduc.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPendientes.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenBecas.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaEmpleado.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaInfoEduc.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaOtraInfo.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmacia.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmaciaPendientes.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagoPlanillas.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagosPendientes.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPorFamilia.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteReembolsos.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Familias.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Login.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MiembrosFamilia.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEducExcel.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarPreferencias.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesEduc.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesEduc.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.mnCH.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Resources.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilFamilia.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilMiembro.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosGenSalud.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedico.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoClin.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarMedico.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaMedica.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsulta.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsultasMedicas.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicamentosClin.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarConsultaMedica.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetaExternaClin.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarConsultaMedica.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarTratamientoEnf.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaEnfermeria.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistenciasMM.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasEnfermeria.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM1.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarTratamientoEnf.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarPreciosMeds.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistencias.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ControlFechasVencimiento.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasFarmacia.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicinasMiembroFarm.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia1.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresosMeds.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoMedicinasAlCredito.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaConsultaAlCredito.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaEmpleados.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Proveedores.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasExternasFarm.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasPendientes.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteConsultasDiarias.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasSalud.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ExonerarMedicina.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarResultadosLab.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLab.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesLab.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesSalud.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLaboratorio.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedica.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosRece.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CitaLaboratorio.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaEspecialista.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirRefExternas.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirResultadosLab.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCitaLab.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarPreconsulta.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoApoyoSalud.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoEmpleado.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoFamiliarEmpleado.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Preconsulta.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosSalud.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarPreconsultas.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesGenSalud.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesSalud.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEduc.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarClasificacionGeneral.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSemaforoGeneral.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CondicionesClasificacionFamiliar.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FamiliasConVisitas.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialVisitas.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarCondicionesClasFam.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCondicionesClasFam.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarVisita.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasSalud.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenTS.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarVisita.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VisitaFamiliar.resources
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.vbproj.GenerateResource.Cache
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe.manifest
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.application
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.xml
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.pdb
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.xml
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.pdb
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EnvioCartasApadrinados.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CartaPadrino.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenApad.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesAE.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformeCitasAE.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PETL.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasMedicasAE.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAE.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaApadrinadosAJ.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaExcel.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciasAJduplicadas.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Recolector.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroAsistencia.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualAsistencias.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralAsistencia.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAJ.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesDuplicadasEduc.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEduc.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizacionFestivalUtiles.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizaEstadoPorGrupo.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoEduc.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AñoEscolar.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BorrarReembolsoConPago.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EntregaLibros.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FeriaUtilesFamiliar.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialEducativo.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoAñoEscolar.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesIndividuales.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEducativas.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ValeLibros.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla2.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosEduc.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPendientes.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenBecas.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaEmpleado.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaInfoEduc.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaOtraInfo.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmacia.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmaciaPendientes.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagoPlanillas.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagosPendientes.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPorFamilia.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteReembolsos.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Familias.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Login.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MiembrosFamilia.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEducExcel.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarPreferencias.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesEduc.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesEduc.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VerificarExistenciaMiembro.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.mnCH.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Resources.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilFamilia.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilMiembro.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosGenSalud.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedico.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoClin.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarMedico.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaMedica.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsulta.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsultasMedicas.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicamentosClin.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarConsultaMedica.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetaExternaClin.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarConsultaMedica.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarTratamientoEnf.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaEnfermeria.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistenciasMM.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasEnfermeria.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM1.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarTratamientoEnf.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarPreciosMeds.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistencias.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ControlFechasVencimiento.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasFarmacia.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicinasMiembroFarm.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia1.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresosMeds.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoMedicinasAlCredito.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaConsultaAlCredito.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaEmpleados.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Proveedores.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasExternasFarm.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasPendientes.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteConsultasDiarias.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasSalud.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ExonerarMedicina.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarResultadosLab.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLab.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesLab.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesSalud.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLaboratorio.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedica.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosRece.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CitaLaboratorio.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaEspecialista.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirRefExternas.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirResultadosLab.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCitaLab.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarPreconsulta.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoApoyoSalud.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoEmpleado.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoFamiliarEmpleado.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Preconsulta.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosSalud.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarPreconsultas.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesGenSalud.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesSalud.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEduc.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarClasificacionGeneral.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSemaforoGeneral.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CondicionesClasificacionFamiliar.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FamiliasConVisitas.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialVisitas.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarCondicionesClasFam.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCondicionesClasFam.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarVisita.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasSalud.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenTS.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarVisita.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VisitaFamiliar.resources
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.vbproj.GenerateResource.Cache
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe.manifest
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\bin\Debug\Familias2.0.application
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\bin\Debug\Familias2.0.pdb
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\bin\Debug\Familias2.0.xml
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe.manifest
+C:\Users\FranciscoB.COMMONHOPE\Desktop\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.application
+C:\Users\PatyL\Desktop\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VerificarExistenciaMiembro.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe.manifest
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.application
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.pdb
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.xml
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarPreAnalisis.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSolicitud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FamiliasTrabajandoHrs.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarHoras.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoGeneralFamiliasAP.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevaSolicitud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PreAnalisisVivienda.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.SolicitudesVivienda.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EnvioCartasApadrinados.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarDatosPadrinos.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CartaPadrino.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenApad.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesAE.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformeCitasAE.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PETL.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasMedicasAE.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAE.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaApadrinadosAJ.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaExcel.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciasAJduplicadas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Recolector.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroAsistencia.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualAsistencias.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralAsistencia.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAJ.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesDuplicadasEduc.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEduc.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizacionFestivalUtiles.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizaEstadoPorGrupo.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoEduc.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AñoEscolar.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BorrarReembolsoConPago.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EntregaLibros.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FeriaUtilesFamiliar.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialEducativo.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoAñoEscolar.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesIndividuales.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEducativas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ValeLibros.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla2.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosEduc.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPendientes.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenBecas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaEmpleado.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaInfoEduc.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaOtraInfo.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmacia.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmaciaPendientes.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagoPlanillas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagosPendientes.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPorFamilia.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteReembolsos.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Familias.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Login.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MiembrosFamilia.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEducExcel.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarPreferencias.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesEduc.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesEduc.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VerificarExistenciaMiembro.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.mnCH.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Resources.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilFamilia.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilMiembro.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosGenSalud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedico.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoClin.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarMedico.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaMedica.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsulta.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsultasMedicas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicamentosClin.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarConsultaMedica.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetaExternaClin.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarConsultaMedica.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarTratamientoEnf.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaEnfermeria.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistenciasMM.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasEnfermeria.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM1.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarTratamientoEnf.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarPreciosMeds.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistencias.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ControlFechasVencimiento.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasFarmacia.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicinasMiembroFarm.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia1.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresosMeds.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoMedicinasAlCredito.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaConsultaAlCredito.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaEmpleados.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Proveedores.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasExternasFarm.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasPendientes.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteConsultasDiarias.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasSalud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ExonerarMedicina.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarResultadosLab.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLab.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesLab.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesSalud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLaboratorio.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedica.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosRece.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CitaLaboratorio.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaEspecialista.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirRefExternas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirResultadosLab.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCitaLab.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarPreconsulta.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoApoyoSalud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoEmpleado.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoFamiliarEmpleado.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Preconsulta.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosSalud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarPreconsultas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesGenSalud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesSalud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEduc.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarPadrino.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FinalizarApadrinamiento.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarClasificacionGeneral.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSemaforoGeneral.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CondicionesClasificacionFamiliar.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FamiliasConVisitas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Historial.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialVisitas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarCondicionesClasFam.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarSemaforo.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoSemaforos.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MantenerViviendas.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCondicionesClasFam.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarVisita.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Ocupaciones.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Posesiones.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasSalud.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenTS.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarVisita.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VisitaFamiliar.resources
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.vbproj.GenerateResource.Cache
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe.manifest
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.application
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.xml
+C:\Users\PatyL\Desktop\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.pdb
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe.manifest
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.application
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.pdb
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.xml
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MiembrosNFam.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevaFamilia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.SolAfiliacion.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ViviendaNFam.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarPreAnalisis.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSolicitud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FamiliasTrabajandoHrs.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarHoras.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoGeneralFamiliasAP.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevaSolicitud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PreAnalisisVivienda.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.SolicitudesVivienda.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EnvioCartasApadrinados.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FotoBox.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.dtAsistencia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroCDIs.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarClaseCombo.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Calificaciones.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoAñoEscolarPorGrupo.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoAñoEscolar_PorGrupo.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroCalificaciones.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroCuentasACHFamilias.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSemaforoENE.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AmbienteSeguro1.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaENE.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CalendarioENE.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CalificacionesPRIM.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesAsistencia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesAmbienteSeg.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesPREPA.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesPRIM.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CalificacionesPREPA.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Form1.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarDatosPadrinos.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CartaPadrino.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenApad.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesAE.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformeCitasAE.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PETL.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasMedicasAE.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAE.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaApadrinadosAJ.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaExcel.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciasAJduplicadas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Recolector.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroAsistencia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualAsistencias.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralAsistencia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAJ.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesDuplicadasEduc.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEduc.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizacionFestivalUtiles.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizaEstadoPorGrupo.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoEduc.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AñoEscolar.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BorrarReembolsoConPago.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EntregaLibros.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FeriaUtilesFamiliar.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialEducativo.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoAñoEscolar.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesIndividuales.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEducativas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ValeLibros.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla2.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosEduc.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPendientes.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenBecas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaEmpleado.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaInfoEduc.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaOtraInfo.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmacia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmaciaPendientes.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagoPlanillas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagosPendientes.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPorFamilia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteReembolsos.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Familias.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Login.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MiembrosFamilia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEducExcel.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarPreferencias.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesEduc.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesEduc.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VerificarExistenciaMiembro.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.mnCH.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Resources.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilFamilia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilMiembro.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosGenSalud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedico.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoClin.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarMedico.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaMedica.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsulta.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsultasMedicas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicamentosClin.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarConsultaMedica.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetaExternaClin.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarConsultaMedica.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarTratamientoEnf.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaEnfermeria.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistenciasMM.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasEnfermeria.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM1.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarTratamientoEnf.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarPreciosMeds.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistencias.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ControlFechasVencimiento.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasFarmacia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicinasMiembroFarm.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia1.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresosMeds.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoMedicinasAlCredito.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaConsultaAlCredito.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaEmpleados.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Proveedores.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasExternasFarm.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasPendientes.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteConsultasDiarias.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasSalud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ExonerarMedicina.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarResultadosLab.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLab.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesLab.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesSalud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLaboratorio.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedica.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosRece.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CitaLaboratorio.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaEspecialista.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirRefExternas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirResultadosLab.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCitaLab.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarPreconsulta.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoApoyoSalud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoEmpleado.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoFamiliarEmpleado.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Preconsulta.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosSalud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarPreconsultas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesGenSalud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesSalud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEduc.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarPadrino.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FinalizarApadrinamiento.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarClasificacionGeneral.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSemaforoGeneral.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CondicionesClasificacionFamiliar.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FamiliasConVisitas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Historial.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialVisitas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarCondicionesClasFam.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarSemaforo.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoSemaforos.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MantenerViviendas.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCondicionesClasFam.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarVisita.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Ocupaciones.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Posesiones.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasSalud.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenTS.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarVisita.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VisitaFamiliar.resources
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.vbproj.GenerateResource.Cache
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe.manifest
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.application
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.xml
+C:\Users\PatyL\Desktop\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.pdb
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.xml
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.pdb
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe.manifest
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.application
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.exe
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.pdb
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\bin\Debug\Familias2.0.xml
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MiembrosNFam.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevaFamilia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.SolAfiliacion.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ViviendaNFam.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarPreAnalisis.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSolicitud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FamiliasTrabajandoHrs.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarHoras.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoGeneralFamiliasAP.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevaSolicitud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PreAnalisisVivienda.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.SolicitudesVivienda.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EnvioCartasApadrinados.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FotoBox.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.dtAsistencia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroCDIs.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarClaseCombo.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Calificaciones.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoAñoEscolarPorGrupo.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoAñoEscolar_PorGrupo.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroCalificaciones.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroCuentasACHFamilias.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSemaforoENE.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AmbienteSeguro1.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaENE.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CalendarioENE.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CalificacionesPRIM.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesAsistencia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesAmbienteSeg.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesPREPA.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesPRIM.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CalificacionesPREPA.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Form1.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarDatosPadrinos.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CartaPadrino.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenApad.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesAE.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformeCitasAE.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PETL.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasMedicasAE.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAE.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaApadrinadosAJ.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciaExcel.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AsistenciasAJduplicadas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Recolector.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroAsistencia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualAsistencias.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralAsistencia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenAJ.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesDuplicadasEduc.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEduc.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizacionFestivalUtiles.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizaEstadoPorGrupo.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoEduc.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AñoEscolar.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BorrarReembolsoConPago.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EntregaLibros.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FeriaUtilesFamiliar.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialEducativo.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoAñoEscolar.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesIndividuales.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEducativas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ValeLibros.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Planilla2.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosEduc.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPendientes.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenBecas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaEmpleado.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaInfoEduc.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.BusquedaOtraInfo.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmacia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CobrosFarmaciaPendientes.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagoPlanillas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PagosPendientes.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosPorFamilia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteReembolsos.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Familias.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Login.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MiembrosFamilia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesEducExcel.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarPreferencias.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesEduc.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesEduc.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VerificarExistenciaMiembro.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.mnCH.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Resources.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilFamilia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.PerfilMiembro.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosGenSalud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedico.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsoClin.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CambiarMedico.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaMedica.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsulta.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialConsultasMedicas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicamentosClin.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarConsultaMedica.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetaExternaClin.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarConsultaMedica.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarTratamientoEnf.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaEnfermeria.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistenciasMM.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasEnfermeria.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFormularioMM1.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarTratamientoEnf.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarPreciosMeds.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AjustarExistencias.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ControlFechasVencimiento.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasFarmacia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialMedicinasMiembroFarm.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.InformesFarmacia1.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresosMeds.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoMedicinasAlCredito.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaConsultaAlCredito.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MedicinaEmpleados.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Proveedores.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasExternasFarm.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RecetasPendientes.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteConsultasDiarias.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.EstadisticasSalud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ExonerarMedicina.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarResultadosLab.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLab.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReportesLab.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActividadesSalud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaLaboratorio.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgendaMedica.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AutorizarReembolsosRece.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CitaLaboratorio.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ConsultaEspecialista.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirRefExternas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ImprimirResultadosLab.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCitaLab.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarPreconsulta.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoApoyoSalud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoEmpleado.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.NuevoFamiliarEmpleado.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Preconsulta.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReembolsosSalud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarPreconsultas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RegistroActividadesGenSalud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteAnualActividadesSalud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReporteGeneralActividadesEduc.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.AgregarPadrino.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FinalizarApadrinamiento.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarClasificacionGeneral.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ActualizarSemaforoGeneral.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.CondicionesClasificacionFamiliar.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.FamiliasConVisitas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Historial.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.HistorialVisitas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarCondicionesClasFam.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.IngresarSemaforo.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ListadoSemaforos.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.MantenerViviendas.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarCondicionesClasFam.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ModificarVisita.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Ocupaciones.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.Posesiones.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ReferenciasSalud.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.ResumenTS.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.RevisarVisita.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2._0.VisitaFamiliar.resources
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.vbproj.GenerateResource.Cache
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe.manifest
+C:\Users\PatyL\Desktop\Patty\ARCHIVOS ESCRITORIO\Desk\Fams\2010\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.application
+C:\Users\JonathanY\Downloads\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.exe
+C:\Users\JonathanY\Downloads\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.xml
+C:\Users\JonathanY\Downloads\Familias2.0\Familias2.0\obj\x86\Debug\Familias2.0.pdb

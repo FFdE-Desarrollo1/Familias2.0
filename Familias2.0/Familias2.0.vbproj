@@ -1,0 +1,1710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EB5835F5-FC46-4D00-9DA2-44EDC5E62D49}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Familias2._0.My.MyApplication</StartupObject>
+    <RootNamespace>Familias2._0</RootNamespace>
+    <AssemblyName>Familias2.0</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Familias2.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Familias2.0.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>familias2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DCC79B0A69CCD45C29AAA453900E9B5205FF2052</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Familias2.0_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Data.SqlClient" />
+    <Import Include="System.Data.SqlTypes" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Globalization" />
+    <Import Include="System.IO" />
+    <Import Include="System.Threading.Tasks" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Afiliaciones\MiembrosNFam.Designer.vb">
+      <DependentUpon>MiembrosNFam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Afiliaciones\MiembrosNFam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Afiliaciones\NuevaFamilia.Designer.vb">
+      <DependentUpon>NuevaFamilia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Afiliaciones\NuevaFamilia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Afiliaciones\SolAfiliacion.Designer.vb">
+      <DependentUpon>SolAfiliacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Afiliaciones\SolAfiliacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Afiliaciones\ViviendaNFam.Designer.vb">
+      <DependentUpon>ViviendaNFam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Afiliaciones\ViviendaNFam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmbienteFam\ActualizarPreAnalisis.Designer.vb">
+      <DependentUpon>ActualizarPreAnalisis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AmbienteFam\ActualizarPreAnalisis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmbienteFam\ActualizarSolicitud.Designer.vb">
+      <DependentUpon>ActualizarSolicitud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AmbienteFam\ActualizarSolicitud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmbienteFam\FamiliasTrabajandoHrs.Designer.vb">
+      <DependentUpon>FamiliasTrabajandoHrs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AmbienteFam\FamiliasTrabajandoHrs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmbienteFam\IngresarHoras.Designer.vb">
+      <DependentUpon>IngresarHoras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AmbienteFam\IngresarHoras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmbienteFam\ListadoGeneralFamiliasAP.Designer.vb">
+      <DependentUpon>ListadoGeneralFamiliasAP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AmbienteFam\ListadoGeneralFamiliasAP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmbienteFam\NuevaSolicitud.Designer.vb">
+      <DependentUpon>NuevaSolicitud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AmbienteFam\NuevaSolicitud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmbienteFam\PreAnalisisVivienda.Designer.vb">
+      <DependentUpon>PreAnalisisVivienda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AmbienteFam\PreAnalisisVivienda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmbienteFam\SolicitudesVivienda.Designer.vb">
+      <DependentUpon>SolicitudesVivienda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AmbienteFam\SolicitudesVivienda.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apadrinamiento\CartasApadrinados\EnvioCartasApadrinados.Designer.vb">
+      <DependentUpon>EnvioCartasApadrinados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Apadrinamiento\CartasApadrinados\EnvioCartasApadrinados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\FotoBox.Designer.vb">
+      <DependentUpon>FotoBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\FotoBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\dtAsistencia.Designer.vb">
+      <DependentUpon>dtAsistencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\dtAsistencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\RegistroCDIs.Designer.vb">
+      <DependentUpon>RegistroCDIs.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\RegistroCDIs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\AgregarClaseCombo.Designer.vb">
+      <DependentUpon>AgregarClaseCombo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\AgregarClaseCombo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\Calificaciones.Designer.vb">
+      <DependentUpon>Calificaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\Calificaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\NuevoAñoEscolarPorGrupo.Designer.vb">
+      <DependentUpon>NuevoAñoEscolarPorGrupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\NuevoAñoEscolarPorGrupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\NuevoAñoEscolar_PorGrupo.Designer.vb">
+      <DependentUpon>NuevoAñoEscolar_PorGrupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\NuevoAñoEscolar_PorGrupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\RegistroCalificaciones.Designer.vb">
+      <DependentUpon>RegistroCalificaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\RegistroCalificaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja\RegistroCuentasACHFamilias.Designer.vb">
+      <DependentUpon>RegistroCuentasACHFamilias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caja\RegistroCuentasACHFamilias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\ActualizarSemaforoENE.Designer.vb">
+      <DependentUpon>ActualizarSemaforoENE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\ActualizarSemaforoENE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\AmbienteSeguro1.Designer.vb">
+      <DependentUpon>AmbienteSeguro1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\AmbienteSeguro1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\AsistenciaENE.Designer.vb">
+      <DependentUpon>AsistenciaENE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\AsistenciaENE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\CalendarioENE.Designer.vb">
+      <DependentUpon>CalendarioENE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\CalendarioENE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\CalificacionesPRIM.Designer.vb">
+      <DependentUpon>CalificacionesPRIM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\CalificacionesPRIM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\ReportesAsistencia.Designer.vb">
+      <DependentUpon>ReportesAsistencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\ReportesAsistencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\ReportesAmbienteSeg.Designer.vb">
+      <DependentUpon>ReportesAmbienteSeg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\ReportesAmbienteSeg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\ReportesPREPA.Designer.vb">
+      <DependentUpon>ReportesPREPA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\ReportesPREPA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\ReportesPRIM.Designer.vb">
+      <DependentUpon>ReportesPRIM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\ReportesPRIM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Escuela\CalificacionesPREPA.Designer.vb">
+      <DependentUpon>CalificacionesPREPA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Escuela\CalificacionesPREPA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPablo\ActualizarDatosPadrinos.Designer.vb">
+      <DependentUpon>ActualizarDatosPadrinos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SanPablo\ActualizarDatosPadrinos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPablo\CartaPadrino.Designer.vb">
+      <DependentUpon>CartaPadrino.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SanPablo\CartaPadrino.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Apadrinamiento\ResumenApad.Designer.vb">
+      <DependentUpon>ResumenApad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Apadrinamiento\ResumenApad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoEduc\ActividadesAE.Designer.vb">
+      <DependentUpon>ActividadesAE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoEduc\ActividadesAE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoEduc\InformeCitasAE.Designer.vb">
+      <DependentUpon>InformeCitasAE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoEduc\InformeCitasAE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoEduc\PETL.Designer.vb">
+      <DependentUpon>PETL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoEduc\PETL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoEduc\ReferenciasMedicasAE.Designer.vb">
+      <DependentUpon>ReferenciasMedicasAE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoEduc\ReferenciasMedicasAE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoEduc\ResumenAE.Designer.vb">
+      <DependentUpon>ResumenAE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoEduc\ResumenAE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\AsistenciaApadrinadosAJ.Designer.vb">
+      <DependentUpon>AsistenciaApadrinadosAJ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\AsistenciaApadrinadosAJ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\AsistenciaExcel.Designer.vb">
+      <DependentUpon>AsistenciaExcel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\AsistenciaExcel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\AsistenciasAJduplicadas.Designer.vb">
+      <DependentUpon>AsistenciasAJduplicadas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\AsistenciasAJduplicadas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\Recolector.Designer.vb">
+      <DependentUpon>Recolector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\Recolector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\RegistroAsistencia.Designer.vb">
+      <DependentUpon>RegistroAsistencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\RegistroAsistencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\ReporteAnualAsistencias.Designer.vb">
+      <DependentUpon>ReporteAnualAsistencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\ReporteAnualAsistencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\ReporteGeneralAsistencia.Designer.vb">
+      <DependentUpon>ReporteGeneralAsistencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\ReporteGeneralAsistencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApoyoJovenes\ResumenAJ.Designer.vb">
+      <DependentUpon>ResumenAJ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ApoyoJovenes\ResumenAJ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Becas\ActividadesDuplicadasEduc.Designer.vb">
+      <DependentUpon>ActividadesDuplicadasEduc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ActividadesDuplicadasEduc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ActividadesEduc.Designer.vb">
+      <DependentUpon>ActividadesEduc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ActividadesEduc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ActualizacionFestivalUtiles.Designer.vb">
+      <DependentUpon>ActualizacionFestivalUtiles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ActualizacionFestivalUtiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ActualizaEstadoPorGrupo.Designer.vb">
+      <DependentUpon>ActualizaEstadoPorGrupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ActualizaEstadoPorGrupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\AutorizarReembolsoEduc.Designer.vb">
+      <DependentUpon>AutorizarReembolsoEduc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\AutorizarReembolsoEduc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\AñoEscolar.Designer.vb">
+      <DependentUpon>AñoEscolar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\AñoEscolar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\BorrarReembolsoConPago.Designer.vb">
+      <DependentUpon>BorrarReembolsoConPago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\BorrarReembolsoConPago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\EntregaLibros.Designer.vb">
+      <DependentUpon>EntregaLibros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\EntregaLibros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\FeriaUtilesFamiliar.Designer.vb">
+      <DependentUpon>FeriaUtilesFamiliar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\FeriaUtilesFamiliar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\HistorialEducativo.Designer.vb">
+      <DependentUpon>HistorialEducativo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\HistorialEducativo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\NuevoAñoEscolar.Designer.vb">
+      <DependentUpon>NuevoAñoEscolar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\NuevoAñoEscolar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\RegistroActividadesIndividuales.Designer.vb">
+      <DependentUpon>RegistroActividadesIndividuales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\RegistroActividadesIndividuales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ReporteGeneralActividadesEducativas.Designer.vb">
+      <DependentUpon>ReporteGeneralActividadesEducativas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ReporteGeneralActividadesEducativas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ValeLibros.Designer.vb">
+      <DependentUpon>ValeLibros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ValeLibros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\Planilla.Designer.vb">
+      <DependentUpon>Planilla.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\Planilla.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\Planilla2.Designer.vb">
+      <DependentUpon>Planilla2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\Planilla2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ReembolsosEduc.Designer.vb">
+      <DependentUpon>ReembolsosEduc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ReembolsosEduc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ReembolsosPendientes.Designer.vb">
+      <DependentUpon>ReembolsosPendientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ReembolsosPendientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ResumenBecas.Designer.vb">
+      <DependentUpon>ResumenBecas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ResumenBecas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusquedaEmpleado.Designer.vb">
+      <DependentUpon>BusquedaEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusquedaInfoEduc.Designer.vb">
+      <DependentUpon>BusquedaInfoEduc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaInfoEduc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BusquedaOtraInfo.Designer.vb">
+      <DependentUpon>BusquedaOtraInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BusquedaOtraInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja\CobrosFarmacia.Designer.vb">
+      <DependentUpon>CobrosFarmacia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caja\CobrosFarmacia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja\CobrosFarmaciaPendientes.Designer.vb">
+      <DependentUpon>CobrosFarmaciaPendientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caja\CobrosFarmaciaPendientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja\PagoPlanillas.Designer.vb">
+      <DependentUpon>PagoPlanillas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caja\PagoPlanillas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja\PagosPendientes.Designer.vb">
+      <DependentUpon>PagosPendientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caja\PagosPendientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja\ReembolsosPorFamilia.Designer.vb">
+      <DependentUpon>ReembolsosPorFamilia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caja\ReembolsosPorFamilia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja\ReporteReembolsos.Designer.vb">
+      <DependentUpon>ReporteReembolsos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Caja\ReporteReembolsos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cnSvr.vb" />
+    <Compile Include="creaMnCH.vb" />
+    <Compile Include="Familias.Designer.vb">
+      <DependentUpon>Familias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Familias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="globales.vb" />
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiembrosFamilia.Designer.vb">
+      <DependentUpon>MiembrosFamilia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MiembrosFamilia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ActividadesEducExcel.Designer.vb">
+      <DependentUpon>ActividadesEducExcel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ActividadesEducExcel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Miscelaneos\CambiarPreferencias.Designer.vb">
+      <DependentUpon>CambiarPreferencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Miscelaneos\CambiarPreferencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\RegistroActividadesEduc.Designer.vb">
+      <DependentUpon>RegistroActividadesEduc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\RegistroActividadesEduc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Becas\ReporteAnualActividadesEduc.Designer.vb">
+      <DependentUpon>ReporteAnualActividadesEduc.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Becas\ReporteAnualActividadesEduc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Miscelaneos\VerificarExistenciaMiembro.Designer.vb">
+      <DependentUpon>VerificarExistenciaMiembro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Miscelaneos\VerificarExistenciaMiembro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="mnCH.Designer.vb">
+      <DependentUpon>mnCH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mnCH.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PerfilFamilia.Designer.vb">
+      <DependentUpon>PerfilFamilia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PerfilFamilia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PerfilMiembro.Designer.vb">
+      <DependentUpon>PerfilMiembro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PerfilMiembro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recursosFamilias.vb" />
+    <Compile Include="Salud\AutorizarReembolsosGenSalud.Designer.vb">
+      <DependentUpon>AutorizarReembolsosGenSalud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\AutorizarReembolsosGenSalud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\AgendaMedico.Designer.vb">
+      <DependentUpon>AgendaMedico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\AgendaMedico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\AutorizarReembolsoClin.Designer.vb">
+      <DependentUpon>AutorizarReembolsoClin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\AutorizarReembolsoClin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\CambiarMedico.Designer.vb">
+      <DependentUpon>CambiarMedico.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\CambiarMedico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\ConsultaMedica.Designer.vb">
+      <DependentUpon>ConsultaMedica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\ConsultaMedica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\HistorialConsulta.Designer.vb">
+      <DependentUpon>HistorialConsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\HistorialConsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\HistorialConsultasMedicas.Designer.vb">
+      <DependentUpon>HistorialConsultasMedicas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\HistorialConsultasMedicas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\HistorialMedicamentosClin.Designer.vb">
+      <DependentUpon>HistorialMedicamentosClin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\HistorialMedicamentosClin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\ModificarConsultaMedica.Designer.vb">
+      <DependentUpon>ModificarConsultaMedica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\ModificarConsultaMedica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\RecetaExternaClin.Designer.vb">
+      <DependentUpon>RecetaExternaClin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\RecetaExternaClin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Clinica\RevisarConsultaMedica.Designer.vb">
+      <DependentUpon>RevisarConsultaMedica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Clinica\RevisarConsultaMedica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\ActualizarTratamientoEnf.Designer.vb">
+      <DependentUpon>ActualizarTratamientoEnf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\ActualizarTratamientoEnf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\AgendaEnfermeria.Designer.vb">
+      <DependentUpon>AgendaEnfermeria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\AgendaEnfermeria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\AjustarExistenciasMM.Designer.vb">
+      <DependentUpon>AjustarExistenciasMM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\AjustarExistenciasMM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\EstadisticasEnfermeria.Designer.vb">
+      <DependentUpon>EstadisticasEnfermeria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\EstadisticasEnfermeria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\InformesFormularioMM.Designer.vb">
+      <DependentUpon>InformesFormularioMM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\InformesFormularioMM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\InformesFormularioMM1.Designer.vb">
+      <DependentUpon>InformesFormularioMM1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\InformesFormularioMM1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\IngresarTratamientoEnf.Designer.vb">
+      <DependentUpon>IngresarTratamientoEnf.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Enfermeria\IngresarTratamientoEnf.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\ActualizarPreciosMeds.Designer.vb">
+      <DependentUpon>ActualizarPreciosMeds.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\ActualizarPreciosMeds.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\AjustarExistencias.Designer.vb">
+      <DependentUpon>AjustarExistencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\AjustarExistencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\ControlFechasVencimiento.Designer.vb">
+      <DependentUpon>ControlFechasVencimiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\ControlFechasVencimiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\EstadisticasFarmacia.Designer.vb">
+      <DependentUpon>EstadisticasFarmacia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\EstadisticasFarmacia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\HistorialMedicinasMiembroFarm.Designer.vb">
+      <DependentUpon>HistorialMedicinasMiembroFarm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\HistorialMedicinasMiembroFarm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\InformesFarmacia.Designer.vb">
+      <DependentUpon>InformesFarmacia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\InformesFarmacia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\InformesFarmacia1.Designer.vb">
+      <DependentUpon>InformesFarmacia1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\InformesFarmacia1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\IngresosMeds.Designer.vb">
+      <DependentUpon>IngresosMeds.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\IngresosMeds.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\ListadoMedicinasAlCredito.Designer.vb">
+      <DependentUpon>ListadoMedicinasAlCredito.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\ListadoMedicinasAlCredito.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\MedicinaConsultaAlCredito.Designer.vb">
+      <DependentUpon>MedicinaConsultaAlCredito.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\MedicinaConsultaAlCredito.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\MedicinaEmpleados.Designer.vb">
+      <DependentUpon>MedicinaEmpleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\MedicinaEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\Proveedores.Designer.vb">
+      <DependentUpon>Proveedores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\Proveedores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\RecetasExternasFarm.Designer.vb">
+      <DependentUpon>RecetasExternasFarm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\RecetasExternasFarm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\RecetasPendientes.Designer.vb">
+      <DependentUpon>RecetasPendientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\RecetasPendientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Farmacia\ReporteConsultasDiarias.Designer.vb">
+      <DependentUpon>ReporteConsultasDiarias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Farmacia\ReporteConsultasDiarias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\GerenciaSalud\EstadisticasSalud.Designer.vb">
+      <DependentUpon>EstadisticasSalud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\GerenciaSalud\EstadisticasSalud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\GerenciaSalud\ExonerarMedicina.Designer.vb">
+      <DependentUpon>ExonerarMedicina.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\GerenciaSalud\ExonerarMedicina.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Laboratorio\AgregarResultadosLab.Designer.vb">
+      <DependentUpon>AgregarResultadosLab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Laboratorio\AgregarResultadosLab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Laboratorio\AgendaLab.Designer.vb">
+      <DependentUpon>AgendaLab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Laboratorio\AgendaLab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Laboratorio\ReportesLab.Designer.vb">
+      <DependentUpon>ReportesLab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Laboratorio\ReportesLab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ActividadesSalud.Designer.vb">
+      <DependentUpon>ActividadesSalud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ActividadesSalud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\AgendaLaboratorio.Designer.vb">
+      <DependentUpon>AgendaLaboratorio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\AgendaLaboratorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\AgendaMedica.Designer.vb">
+      <DependentUpon>AgendaMedica.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\AgendaMedica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\AutorizarReembolsosRece.Designer.vb">
+      <DependentUpon>AutorizarReembolsosRece.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\AutorizarReembolsosRece.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\CitaLaboratorio.Designer.vb">
+      <DependentUpon>CitaLaboratorio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\CitaLaboratorio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ConsultaEspecialista.Designer.vb">
+      <DependentUpon>ConsultaEspecialista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ConsultaEspecialista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ImprimirRefExternas.Designer.vb">
+      <DependentUpon>ImprimirRefExternas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ImprimirRefExternas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ImprimirResultadosLab.Designer.vb">
+      <DependentUpon>ImprimirResultadosLab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ImprimirResultadosLab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ModificarCitaLab.Designer.vb">
+      <DependentUpon>ModificarCitaLab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ModificarCitaLab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ModificarPreconsulta.Designer.vb">
+      <DependentUpon>ModificarPreconsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ModificarPreconsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\NuevoApoyoSalud.Designer.vb">
+      <DependentUpon>NuevoApoyoSalud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\NuevoApoyoSalud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\NuevoEmpleado.Designer.vb">
+      <DependentUpon>NuevoEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\NuevoEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\NuevoFamiliarEmpleado.Designer.vb">
+      <DependentUpon>NuevoFamiliarEmpleado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\NuevoFamiliarEmpleado.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\Preconsulta.Designer.vb">
+      <DependentUpon>Preconsulta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\Preconsulta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ReembolsosSalud.Designer.vb">
+      <DependentUpon>ReembolsosSalud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\ReembolsosSalud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\Recepcion\RevisarPreconsultas.Designer.vb">
+      <DependentUpon>RevisarPreconsultas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\Recepcion\RevisarPreconsultas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\RegistroActividadesGenSalud.Designer.vb">
+      <DependentUpon>RegistroActividadesGenSalud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\RegistroActividadesGenSalud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\ReporteAnualActividadesSalud.Designer.vb">
+      <DependentUpon>ReporteAnualActividadesSalud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\ReporteAnualActividadesSalud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salud\ReporteGeneralActividadesSalud.Designer.vb">
+      <DependentUpon>ReporteGeneralActividadesSalud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Salud\ReporteGeneralActividadesSalud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPablo\AgregarPadrino.Designer.vb">
+      <DependentUpon>AgregarPadrino.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SanPablo\AgregarPadrino.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SanPablo\FinalizarApadrinamiento.Designer.vb">
+      <DependentUpon>FinalizarApadrinamiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SanPablo\FinalizarApadrinamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\ActualizarClasificacionGeneral.Designer.vb">
+      <DependentUpon>ActualizarClasificacionGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\ActualizarClasificacionGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\ActualizarSemaforoGeneral.Designer.vb">
+      <DependentUpon>ActualizarSemaforoGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\ActualizarSemaforoGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\CondicionesClasificacionFamiliar.Designer.vb">
+      <DependentUpon>CondicionesClasificacionFamiliar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\CondicionesClasificacionFamiliar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\FamiliasConVisitas.Designer.vb">
+      <DependentUpon>FamiliasConVisitas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\FamiliasConVisitas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\Historial.Designer.vb">
+      <DependentUpon>Historial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\Historial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\HistorialVisitas.Designer.vb">
+      <DependentUpon>HistorialVisitas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\HistorialVisitas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\IngresarCondicionesClasFam.Designer.vb">
+      <DependentUpon>IngresarCondicionesClasFam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\IngresarCondicionesClasFam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\IngresarSemaforo.Designer.vb">
+      <DependentUpon>IngresarSemaforo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\IngresarSemaforo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\ListadoSemaforos.Designer.vb">
+      <DependentUpon>ListadoSemaforos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\ListadoSemaforos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\MantenerViviendas.Designer.vb">
+      <DependentUpon>MantenerViviendas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\MantenerViviendas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\ModificarCondicionesClasFam.Designer.vb">
+      <DependentUpon>ModificarCondicionesClasFam.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\ModificarCondicionesClasFam.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\ModificarVisita.Designer.vb">
+      <DependentUpon>ModificarVisita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\ModificarVisita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\Ocupaciones.Designer.vb">
+      <DependentUpon>Ocupaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\Ocupaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\Posesiones.Designer.vb">
+      <DependentUpon>Posesiones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\Posesiones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\ReferenciasSalud.Designer.vb">
+      <DependentUpon>ReferenciasSalud.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\ReferenciasSalud.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\ResumenTS.Designer.vb">
+      <DependentUpon>ResumenTS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\ResumenTS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\RevisarVisita.Designer.vb">
+      <DependentUpon>RevisarVisita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\RevisarVisita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TrabajoSocial\VisitaFamiliar.Designer.vb">
+      <DependentUpon>VisitaFamiliar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TrabajoSocial\VisitaFamiliar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Afiliaciones\MiembrosNFam.resx">
+      <DependentUpon>MiembrosNFam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Afiliaciones\NuevaFamilia.resx">
+      <DependentUpon>NuevaFamilia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Afiliaciones\SolAfiliacion.resx">
+      <DependentUpon>SolAfiliacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Afiliaciones\ViviendaNFam.resx">
+      <DependentUpon>ViviendaNFam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmbienteFam\ActualizarPreAnalisis.resx">
+      <DependentUpon>ActualizarPreAnalisis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmbienteFam\ActualizarSolicitud.resx">
+      <DependentUpon>ActualizarSolicitud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmbienteFam\FamiliasTrabajandoHrs.resx">
+      <DependentUpon>FamiliasTrabajandoHrs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmbienteFam\IngresarHoras.resx">
+      <DependentUpon>IngresarHoras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmbienteFam\ListadoGeneralFamiliasAP.resx">
+      <DependentUpon>ListadoGeneralFamiliasAP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmbienteFam\NuevaSolicitud.resx">
+      <DependentUpon>NuevaSolicitud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmbienteFam\PreAnalisisVivienda.resx">
+      <DependentUpon>PreAnalisisVivienda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmbienteFam\SolicitudesVivienda.resx">
+      <DependentUpon>SolicitudesVivienda.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apadrinamiento\CartasApadrinados\EnvioCartasApadrinados.resx">
+      <DependentUpon>EnvioCartasApadrinados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\FotoBox.resx">
+      <DependentUpon>FotoBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\dtAsistencia.resx">
+      <DependentUpon>dtAsistencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\RegistroCDIs.resx">
+      <DependentUpon>RegistroCDIs.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\AgregarClaseCombo.resx">
+      <DependentUpon>AgregarClaseCombo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\Calificaciones.resx">
+      <DependentUpon>Calificaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\NuevoAñoEscolarPorGrupo.resx">
+      <DependentUpon>NuevoAñoEscolarPorGrupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\NuevoAñoEscolar_PorGrupo.resx">
+      <DependentUpon>NuevoAñoEscolar_PorGrupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\RegistroCalificaciones.resx">
+      <DependentUpon>RegistroCalificaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja\RegistroCuentasACHFamilias.resx">
+      <DependentUpon>RegistroCuentasACHFamilias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\ActualizarSemaforoENE.resx">
+      <DependentUpon>ActualizarSemaforoENE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\AmbienteSeguro1.resx">
+      <DependentUpon>AmbienteSeguro1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\AsistenciaENE.resx">
+      <DependentUpon>AsistenciaENE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\CalendarioENE.resx">
+      <DependentUpon>CalendarioENE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\CalificacionesPRIM.resx">
+      <DependentUpon>CalificacionesPRIM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\ReportesAsistencia.resx">
+      <DependentUpon>ReportesAsistencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\ReportesAmbienteSeg.resx">
+      <DependentUpon>ReportesAmbienteSeg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\ReportesPREPA.resx">
+      <DependentUpon>ReportesPREPA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\ReportesPRIM.resx">
+      <DependentUpon>ReportesPRIM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Escuela\CalificacionesPREPA.resx">
+      <DependentUpon>CalificacionesPREPA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPablo\ActualizarDatosPadrinos.resx">
+      <DependentUpon>ActualizarDatosPadrinos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPablo\CartaPadrino.resx">
+      <DependentUpon>CartaPadrino.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Apadrinamiento\ResumenApad.resx">
+      <DependentUpon>ResumenApad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoEduc\ActividadesAE.resx">
+      <DependentUpon>ActividadesAE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoEduc\InformeCitasAE.resx">
+      <DependentUpon>InformeCitasAE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoEduc\PETL.resx">
+      <DependentUpon>PETL.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoEduc\ReferenciasMedicasAE.resx">
+      <DependentUpon>ReferenciasMedicasAE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoEduc\ResumenAE.resx">
+      <DependentUpon>ResumenAE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\AsistenciaApadrinadosAJ.resx">
+      <DependentUpon>AsistenciaApadrinadosAJ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\AsistenciaExcel.resx">
+      <DependentUpon>AsistenciaExcel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\AsistenciasAJduplicadas.resx">
+      <DependentUpon>AsistenciasAJduplicadas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\Recolector.resx">
+      <DependentUpon>Recolector.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\RegistroAsistencia.resx">
+      <DependentUpon>RegistroAsistencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\ReporteAnualAsistencias.resx">
+      <DependentUpon>ReporteAnualAsistencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\ReporteGeneralAsistencia.resx">
+      <DependentUpon>ReporteGeneralAsistencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApoyoJovenes\ResumenAJ.resx">
+      <DependentUpon>ResumenAJ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ActividadesDuplicadasEduc.resx">
+      <DependentUpon>ActividadesDuplicadasEduc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ActividadesEduc.resx">
+      <DependentUpon>ActividadesEduc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ActualizacionFestivalUtiles.resx">
+      <DependentUpon>ActualizacionFestivalUtiles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ActualizaEstadoPorGrupo.resx">
+      <DependentUpon>ActualizaEstadoPorGrupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\AutorizarReembolsoEduc.resx">
+      <DependentUpon>AutorizarReembolsoEduc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\AñoEscolar.resx">
+      <DependentUpon>AñoEscolar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\BorrarReembolsoConPago.resx">
+      <DependentUpon>BorrarReembolsoConPago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\EntregaLibros.resx">
+      <DependentUpon>EntregaLibros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\FeriaUtilesFamiliar.resx">
+      <DependentUpon>FeriaUtilesFamiliar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\HistorialEducativo.resx">
+      <DependentUpon>HistorialEducativo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\NuevoAñoEscolar.resx">
+      <DependentUpon>NuevoAñoEscolar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\RegistroActividadesIndividuales.resx">
+      <DependentUpon>RegistroActividadesIndividuales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ReporteGeneralActividadesEducativas.resx">
+      <DependentUpon>ReporteGeneralActividadesEducativas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ValeLibros.resx">
+      <DependentUpon>ValeLibros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\Planilla.resx">
+      <DependentUpon>Planilla.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\Planilla2.resx">
+      <DependentUpon>Planilla2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ReembolsosEduc.resx">
+      <DependentUpon>ReembolsosEduc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ReembolsosPendientes.resx">
+      <DependentUpon>ReembolsosPendientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ResumenBecas.resx">
+      <DependentUpon>ResumenBecas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusquedaEmpleado.resx">
+      <DependentUpon>BusquedaEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusquedaInfoEduc.resx">
+      <DependentUpon>BusquedaInfoEduc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BusquedaOtraInfo.resx">
+      <DependentUpon>BusquedaOtraInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja\CobrosFarmacia.resx">
+      <DependentUpon>CobrosFarmacia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja\CobrosFarmaciaPendientes.resx">
+      <DependentUpon>CobrosFarmaciaPendientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja\PagoPlanillas.resx">
+      <DependentUpon>PagoPlanillas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja\PagosPendientes.resx">
+      <DependentUpon>PagosPendientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja\ReembolsosPorFamilia.resx">
+      <DependentUpon>ReembolsosPorFamilia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja\ReporteReembolsos.resx">
+      <DependentUpon>ReporteReembolsos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Familias.resx">
+      <DependentUpon>Familias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiembrosFamilia.resx">
+      <DependentUpon>MiembrosFamilia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ActividadesEducExcel.resx">
+      <DependentUpon>ActividadesEducExcel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Miscelaneos\CambiarPreferencias.resx">
+      <DependentUpon>CambiarPreferencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\RegistroActividadesEduc.resx">
+      <DependentUpon>RegistroActividadesEduc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Becas\ReporteAnualActividadesEduc.resx">
+      <DependentUpon>ReporteAnualActividadesEduc.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Miscelaneos\VerificarExistenciaMiembro.resx">
+      <DependentUpon>VerificarExistenciaMiembro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mnCH.resx">
+      <DependentUpon>mnCH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerfilFamilia.resx">
+      <DependentUpon>PerfilFamilia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerfilMiembro.resx">
+      <DependentUpon>PerfilMiembro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\AutorizarReembolsosGenSalud.resx">
+      <DependentUpon>AutorizarReembolsosGenSalud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\AgendaMedico.resx">
+      <DependentUpon>AgendaMedico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\AutorizarReembolsoClin.resx">
+      <DependentUpon>AutorizarReembolsoClin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\CambiarMedico.resx">
+      <DependentUpon>CambiarMedico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\ConsultaMedica.resx">
+      <DependentUpon>ConsultaMedica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\HistorialConsulta.resx">
+      <DependentUpon>HistorialConsulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\HistorialConsultasMedicas.resx">
+      <DependentUpon>HistorialConsultasMedicas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\HistorialMedicamentosClin.resx">
+      <DependentUpon>HistorialMedicamentosClin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\ModificarConsultaMedica.resx">
+      <DependentUpon>ModificarConsultaMedica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\RecetaExternaClin.resx">
+      <DependentUpon>RecetaExternaClin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Clinica\RevisarConsultaMedica.resx">
+      <DependentUpon>RevisarConsultaMedica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Enfermeria\ActualizarTratamientoEnf.resx">
+      <DependentUpon>ActualizarTratamientoEnf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Enfermeria\AgendaEnfermeria.resx">
+      <DependentUpon>AgendaEnfermeria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Enfermeria\AjustarExistenciasMM.resx">
+      <DependentUpon>AjustarExistenciasMM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Enfermeria\EstadisticasEnfermeria.resx">
+      <DependentUpon>EstadisticasEnfermeria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Enfermeria\InformesFormularioMM.resx">
+      <DependentUpon>InformesFormularioMM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Enfermeria\InformesFormularioMM1.resx">
+      <DependentUpon>InformesFormularioMM1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Enfermeria\IngresarTratamientoEnf.resx">
+      <DependentUpon>IngresarTratamientoEnf.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\ActualizarPreciosMeds.resx">
+      <DependentUpon>ActualizarPreciosMeds.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\AjustarExistencias.resx">
+      <DependentUpon>AjustarExistencias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\ControlFechasVencimiento.resx">
+      <DependentUpon>ControlFechasVencimiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\EstadisticasFarmacia.resx">
+      <DependentUpon>EstadisticasFarmacia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\HistorialMedicinasMiembroFarm.resx">
+      <DependentUpon>HistorialMedicinasMiembroFarm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\InformesFarmacia.resx">
+      <DependentUpon>InformesFarmacia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\InformesFarmacia1.resx">
+      <DependentUpon>InformesFarmacia1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\IngresosMeds.resx">
+      <DependentUpon>IngresosMeds.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\ListadoMedicinasAlCredito.resx">
+      <DependentUpon>ListadoMedicinasAlCredito.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\MedicinaConsultaAlCredito.resx">
+      <DependentUpon>MedicinaConsultaAlCredito.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\MedicinaEmpleados.resx">
+      <DependentUpon>MedicinaEmpleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\Proveedores.resx">
+      <DependentUpon>Proveedores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\RecetasExternasFarm.resx">
+      <DependentUpon>RecetasExternasFarm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\RecetasPendientes.resx">
+      <DependentUpon>RecetasPendientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Farmacia\ReporteConsultasDiarias.resx">
+      <DependentUpon>ReporteConsultasDiarias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\GerenciaSalud\EstadisticasSalud.resx">
+      <DependentUpon>EstadisticasSalud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\GerenciaSalud\ExonerarMedicina.resx">
+      <DependentUpon>ExonerarMedicina.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Laboratorio\AgregarResultadosLab.resx">
+      <DependentUpon>AgregarResultadosLab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Laboratorio\AgendaLab.resx">
+      <DependentUpon>AgendaLab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Laboratorio\ReportesLab.resx">
+      <DependentUpon>ReportesLab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\ActividadesSalud.resx">
+      <DependentUpon>ActividadesSalud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\AgendaLaboratorio.resx">
+      <DependentUpon>AgendaLaboratorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\AgendaMedica.resx">
+      <DependentUpon>AgendaMedica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\AutorizarReembolsosRece.resx">
+      <DependentUpon>AutorizarReembolsosRece.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\CitaLaboratorio.resx">
+      <DependentUpon>CitaLaboratorio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\ConsultaEspecialista.resx">
+      <DependentUpon>ConsultaEspecialista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\ImprimirRefExternas.resx">
+      <DependentUpon>ImprimirRefExternas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\ImprimirResultadosLab.resx">
+      <DependentUpon>ImprimirResultadosLab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\ModificarCitaLab.resx">
+      <DependentUpon>ModificarCitaLab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\ModificarPreconsulta.resx">
+      <DependentUpon>ModificarPreconsulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\NuevoApoyoSalud.resx">
+      <DependentUpon>NuevoApoyoSalud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\NuevoEmpleado.resx">
+      <DependentUpon>NuevoEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\NuevoFamiliarEmpleado.resx">
+      <DependentUpon>NuevoFamiliarEmpleado.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\Preconsulta.resx">
+      <DependentUpon>Preconsulta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\ReembolsosSalud.resx">
+      <DependentUpon>ReembolsosSalud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\Recepcion\RevisarPreconsultas.resx">
+      <DependentUpon>RevisarPreconsultas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\RegistroActividadesGenSalud.resx">
+      <DependentUpon>RegistroActividadesGenSalud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\ReporteAnualActividadesSalud.resx">
+      <DependentUpon>ReporteAnualActividadesSalud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Salud\ReporteGeneralActividadesSalud.resx">
+      <DependentUpon>ReporteGeneralActividadesSalud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPablo\AgregarPadrino.resx">
+      <DependentUpon>AgregarPadrino.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SanPablo\FinalizarApadrinamiento.resx">
+      <DependentUpon>FinalizarApadrinamiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\ActualizarClasificacionGeneral.resx">
+      <DependentUpon>ActualizarClasificacionGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\ActualizarSemaforoGeneral.resx">
+      <DependentUpon>ActualizarSemaforoGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\CondicionesClasificacionFamiliar.resx">
+      <DependentUpon>CondicionesClasificacionFamiliar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\FamiliasConVisitas.resx">
+      <DependentUpon>FamiliasConVisitas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\Historial.resx">
+      <DependentUpon>Historial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\HistorialVisitas.resx">
+      <DependentUpon>HistorialVisitas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\IngresarCondicionesClasFam.resx">
+      <DependentUpon>IngresarCondicionesClasFam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\IngresarSemaforo.resx">
+      <DependentUpon>IngresarSemaforo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\ListadoSemaforos.resx">
+      <DependentUpon>ListadoSemaforos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\MantenerViviendas.resx">
+      <DependentUpon>MantenerViviendas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\ModificarCondicionesClasFam.resx">
+      <DependentUpon>ModificarCondicionesClasFam.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\ModificarVisita.resx">
+      <DependentUpon>ModificarVisita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\Ocupaciones.resx">
+      <DependentUpon>Ocupaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\Posesiones.resx">
+      <DependentUpon>Posesiones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\ReferenciasSalud.resx">
+      <DependentUpon>ReferenciasSalud.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\ResumenTS.resx">
+      <DependentUpon>ResumenTS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\RevisarVisita.resx">
+      <DependentUpon>RevisarVisita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TrabajoSocial\VisitaFamiliar.resx">
+      <DependentUpon>VisitaFamiliar.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Familias2.0_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Apadrinamiento\Regalos\" />
+    <Folder Include="Apadrinamiento\SanPablo\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="familias2.ico" />
+    <Content Include="Imagenes\FU.png" />
+    <None Include="Imagenes\lFU.png" />
+    <Content Include="Imagenes\ListaIcon.png" />
+    <Content Include="Imagenes\LogoUtiles.png" />
+    <Content Include="Imagenes\noFam.png" />
+    <Content Include="lFU.png" />
+    <None Include="Imagenes\Listado.jpg" />
+    <None Include="Imagenes\CH_Heart_CMYK.jpg" />
+    <None Include="Imagenes\FamiliasdeEsperanza_Logo_Pequeño.png" />
+    <None Include="Resources\EjAsistencia2.jpg" />
+    <None Include="Resources\EjAsistencia.jpg" />
+    <None Include="Resources\FamiliasdeEsperanza_Logo_RGB.png" />
+    <None Include="Resources\utilesNoFam.png" />
+    <None Include="Resources\LogoUtiles.png" />
+    <None Include="Resources\HEAL.jpg" />
+    <None Include="Resources\retorno.png" />
+    <None Include="Resources\seguir.png" />
+    <None Include="Resources\Print.png" />
+    <None Include="Resources\BECA.png" />
+    <None Include="Imagenes\CH_Heart.png" />
+    <None Include="Imagenes\Save.png" />
+    <None Include="Imagenes\searchFam.png" />
+    <None Include="Imagenes\Nuevo.png" />
+    <None Include="Imagenes\Menu.png" />
+    <None Include="Imagenes\HeartSmall.png" />
+    <None Include="Imagenes\login.png" />
+    <None Include="Imagenes\logoFam.png" />
+    <None Include="Imagenes\backFam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
