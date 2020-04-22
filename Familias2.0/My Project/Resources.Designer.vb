@@ -359,7 +359,7 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Looks up a localized string similar to 2.0 (20190705).
+        '''  Looks up a localized string similar to 2.0 (20200422).
         '''</summary>
         Friend ReadOnly Property versionFamilias2() As String
             Get
