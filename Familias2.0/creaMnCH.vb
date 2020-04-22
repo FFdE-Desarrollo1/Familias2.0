@@ -1256,7 +1256,7 @@
 
     Private Sub opcionesSalud()
         'If S = "F" Or S = "S" Or S = "E" Or S = "A" Then
-        esAdminArea("CLIN")
+        'esAdminArea("CLIN")
         If roles.Contains("DS") = True Then
             admArea = True
         End If
@@ -1273,7 +1273,8 @@
             opcionesEnfermeria()
         End If
 
-        If roles.Contains("FARM") Or programas.Contains("FARM") Or admArea = True Then
+        If roles.Contains("FARM") Or admArea = True Then
+            'Or programas.Contains("FARM") 
             opcionesFarmacia()
         End If
 

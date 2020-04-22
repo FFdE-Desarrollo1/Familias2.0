@@ -101,7 +101,7 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Looks up a localized string similar to Test.
+        '''  Looks up a localized string similar to Familias.
         '''</summary>
         Friend ReadOnly Property db() As String
             Get
